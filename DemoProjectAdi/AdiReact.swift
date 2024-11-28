@@ -1,6 +1,6 @@
 import SwiftUI
 
-struct ContentView: View {
+struct ContentReactView: View {
     var body: some View {
         VStack {
            Text("Aditya Choubisa was React developer in 2023")
@@ -12,5 +12,5 @@ struct ContentView: View {
 }
 
 #Preview {
-    ContentView()
+    ContentReactView()
 }
