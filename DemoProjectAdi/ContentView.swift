@@ -12,6 +12,7 @@ struct ContentView: View {
         VStack {
            Text("Aditya Choubisa is IOS developer at shipturtle")
             Text("He is exception developer")
+            Text("He is 25 years old")
         }
         .padding()
     }
